@@ -1,23 +1,23 @@
 criaCartao(
     'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'Qual é o nome do primeiro Brawler lendário introduzido no Brawl Stars?',
+    'Spike'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'Conhecimentos gerais',
+    'Qual modo de jogo envolve coletar 10 gemas e mantê-las até o final?',
+    'Pique-gema'
 )
 
 criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+    'Conhecimentos gerais',
+    'Qual Brawler tem a habilidade estelar chamada "Curacora"?',
+    'Poco'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'Conhecimentos gerais',
+    'Quantos pontos de troféu são necessários para desbloquear o Passe de Batalha gratuito?',
+    '3000 troféus'
 )
